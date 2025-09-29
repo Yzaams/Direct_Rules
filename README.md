@@ -13,5 +13,3 @@ nvidia
 cn_site
 
 chinadomains
-
-cn_ip
