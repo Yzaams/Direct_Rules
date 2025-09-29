@@ -1,5 +1,6 @@
 # Direct_Rules
-直连合并
+
+自用直连合并基于metacubeX/aib
 
 win-update
 
